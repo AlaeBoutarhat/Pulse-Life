@@ -7,3 +7,4 @@ langchain-openai
 chromadb
 ollama-python
 tiktoken
+langchain_chroma
