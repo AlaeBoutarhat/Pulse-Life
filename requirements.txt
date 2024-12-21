@@ -3,5 +3,8 @@ PyPDF2
 pdfplumber
 langchain
 chromadb
-ollama
 tiktoken
+geopy
+folium
+streamlit-folium
+
