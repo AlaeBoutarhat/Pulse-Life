@@ -1,10 +1,11 @@
-streamlit
-PyPDF2
-pdfplumber
-langchain
-chromadb
-tiktoken
-geopy
-folium
-streamlit-folium
+streamlit==1.32.0
+PyPDF2==3.0.1
+pdfplumber==0.10.2
+langchain==0.0.216
+chromadb==0.3.26
+tiktoken==0.5.1
+geopy==2.3.0
+folium==0.14.0
+streamlit-folium==0.13.0
+
 
