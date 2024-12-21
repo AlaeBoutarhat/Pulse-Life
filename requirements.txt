@@ -1,10 +1,7 @@
-streamlit
-PyPDF2
-pdfplumber
-langchain-community
-langchain-core
-langchain-openai
-chromadb
-ollama-python
-tiktoken
-langchain_chroma
+streamlit==1.32.0
+PyPDF2==3.0.1
+pdfplumber==0.10.2
+langchain==0.0.216
+chromadb==0.3.26
+ollama==0.0.4
+tiktoken==0.5.1
